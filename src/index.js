@@ -1,1 +1,1 @@
-// Entry point for OpenPayments-SDK
+// Compiled output will overwrite this file
